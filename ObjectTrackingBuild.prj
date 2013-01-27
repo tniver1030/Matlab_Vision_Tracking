@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <deployment-project>
-  <configuration target="target.standalone.win" target-name="Windows Standalone Application" name="ObjectTrackingBuild" location="Z:\Repositories\Matlab_Vision_Tracking" file="Z:\Repositories\Matlab_Vision_Tracking\ObjectTrackingBuild.prj">
+  <configuration target="target.standalone.win" target-name="Windows Standalone Application" name="ObjectTrackingBuild" location="Z:\Repositories\Matlab_Vision_Tracking" file="Z:\Repositories\Matlab_Vision_Tracking\ObjectTrackingBuild.prj" build-checksum="629773299">
     <param.project.name>Z:\Repositories\Matlab_Vision_Tracking\ObjectTrackingBuild.prj</param.project.name>
     <param.target.type>Windows Standalone Application</param.target.type>
     <param.appname>ObjectTrackingBuild</param.appname>
