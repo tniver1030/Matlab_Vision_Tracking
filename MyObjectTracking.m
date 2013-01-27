@@ -27,7 +27,7 @@ ran_once = 0;
 
 while(1),
 
-tic
+%tic
 preview(vid);
 data = getsnapshot(vid);
 data = imresize(data, scale);
@@ -174,7 +174,7 @@ newdata(:,:,3)=B;
     %percentdone = (i/nFrames)*100;
     %percentdone
 %end
-toc
+%toc
 end
 
 %BELOW USED FOR VIDEO ENCODING
