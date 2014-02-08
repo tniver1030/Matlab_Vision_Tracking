@@ -1,2 +1,0 @@
-MATLAB Vision Tracking
-=============
